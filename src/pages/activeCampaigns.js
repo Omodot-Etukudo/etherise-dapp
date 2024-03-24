@@ -13,7 +13,7 @@ function activeCampaigns() {
 				<div className="flex justify-start items-center w-full">
 					<div className=' flex flex-col space-y-2 justify-start items-start'>
             <h2 className=" text-3xl text-black font-semibold">Active Campaigns</h2>
-            <p className=' text-base text-gray-600'>Explore and donate to campaigns still raising funds.</p>
+            <p className=' text-base text-gray-600'>Explore and donate to campaigns currently raising funds.</p>
           </div>
 				</div>
 						
