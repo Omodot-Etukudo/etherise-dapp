@@ -9,10 +9,10 @@ function Campaign() {
         <div className='flex flex-col space-y-4 justify-start items-start'>
             <div className='flex justify-start items-start flex-col space-y-2'>
               <span className='px-3 py-1 rounded-full bg-gray-100 text-gray-800 text-xs'>Sustainability</span>
-              <h4 className='text-lg font-semibold text-black text-left'>New Orleans Homeless Shelter Renovation</h4>
+              <h4 className='text-lg font-semibold font-heading text-black text-left leading-tight'>New Orleans Homeless Shelter Renovation</h4>
             </div>
             <div className='px-3 py-3 bg-gray-100 flex flex-col space-y-2 justify-start items-start w-full rounded-md'>
-              <div className='flex space-x-2 justify-center items-center'> <CircleStackIcon className=' text-orange-400 w-4 h-4' /> <div className='flex space-x-1 justify-center items-center'><p className='text-sm font-semibold text-black'>Raised 1.9eth</p> <p className='text-sm font-medium text-gray-500'>($3200)</p> </div></div>
+              <div className='flex space-x-2 justify-center items-center'> <CircleStackIcon className=' text-orange-400 w-4 h-4' /> <div className='flex space-x-1 justify-center items-center'><p className='text-sm font-semibold text-black'>Raised 1.9eth</p> <p className='text-sm font-medium text-gray-500'>(24 Donations)</p> </div></div>
               <div className='bg-white w-full rounded-full h-1.5 flex justify-start items-center'>
                   <div className=' w-3/4 bg-green-500 rounded-full h-1.5'/>
               </div>

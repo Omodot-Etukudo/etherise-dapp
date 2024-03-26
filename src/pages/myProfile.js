@@ -12,7 +12,7 @@ function myCampaigns() {
 				<div className="flex flex-col space-y-8 justify-start items-start w-full">
 				<div className="flex justify-start items-center w-full">
 					<div className=' flex flex-col space-y-2 justify-start items-start'>
-            <h2 className=" text-3xl text-black font-semibold">My Campaigns</h2>
+            <h2 className=" text-3xl text-black font-semibold font-heading">My Profile</h2>
             <p className=' text-base text-gray-600'>Campaigns created by you. Open a campign to view transactions</p>
           </div>
 				</div>
@@ -21,7 +21,7 @@ function myCampaigns() {
 					<div className="text-sm font-medium text-center text-gray-500 border-b border-gray-200 w-full">
 							<ul className="flex flex-wrap -mb-px">
 								<li className="me-2">
-									<a href="#" className="inline-block p-4 text-primary border-b-2 border-primary rounded-t-lg  dark:text-blue-500">All Categories</a>
+									<a href="#" className="inline-block p-4 text-primary border-b-2 border-primary rounded-t-lg  dark:text-blue-500">My Campaigns</a>
 								</li>
 							</ul>
 					</div>

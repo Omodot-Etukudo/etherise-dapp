@@ -18,6 +18,6 @@
 			"@/*": ["./src/*"]
 		}
 	},
-	"include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/pages/_app.js", "src/pages/_document.js", "src/pages/activeCampaigns.js", "src/pages/createSuccess.js", "src/pages/myCampaigns.js", "src/pages/newCampaign.js", "src/pages/withdrawSuccess.js", "src/pages/index.js"],
+	"include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/pages/_app.js", "src/pages/_document.js", "src/pages/activeCampaigns.js", "src/pages/createSuccess.js", "src/pages/myProfile.js", "src/pages/newCampaign.js", "src/pages/withdrawSuccess.js", "src/pages/index.js"],
 	"exclude": ["node_modules"]
 }
