@@ -51,7 +51,7 @@ export default function Home() {
 				<div className="flex flex-col space-y-8 justify-start items-start w-full">
 					<div className="flex justify-between items-center w-full">
 					<div><h2 className=" text-3xl text-black font-semibold font-heading">Campaigns you may like</h2></div>
-					<div><Link href="/pages/activeCampaigns" className="text-base font-semibold text-primary">See all campaigns</Link></div>
+					<div><Link href="/activeCampaigns" className="text-base font-semibold text-primary">See all campaigns</Link></div>
 				</div>
 						
 				<div className="flex justify-start items-start w-full">
@@ -77,14 +77,14 @@ export default function Home() {
 				</div>
 			</div>
 			<div className='flex flex-col space-y-8 lg:space-y-0 md:space-y-0 lg:grid lg:grid-cols-3 lg:gap-16 md:grid md:grid-cols-3 md:gap-8 w-full'>
-				<Campaign/>
-				<Campaign/>
-				<Campaign/>
-				<Campaign/>
-				<Campaign/>
-				<Campaign/>
-				<Campaign/>
-				<Campaign/>
+				<Campaign linkTo="id-goes-here"/>
+				<Campaign linkTo="id-goes-here"/>
+				<Campaign linkTo="id-goes-here"/>
+				<Campaign linkTo="id-goes-here"/>
+				<Campaign linkTo="id-goes-here"/>
+				<Campaign linkTo="id-goes-here"/>
+				<Campaign linkTo="id-goes-here"/>
+				<Campaign linkTo="id-goes-here"/>
 				
 			</div>
 					

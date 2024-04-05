@@ -40,14 +40,14 @@ function activeCampaigns() {
           </div>
 			  </div>
         <div className='flex flex-col space-y-8 lg:space-y-0 md:space-y-0 lg:grid lg:grid-cols-3 lg:gap-16 md:grid md:grid-cols-3 md:gap-8 w-full'>
-          <Campaign/>
-          <Campaign/>
-          <Campaign/>
-          <Campaign/>
-          <Campaign/>
-          <Campaign/>
-          <Campaign/>
-          <Campaign/>
+          <Campaign linkTo="id-goes-here"/>
+          <Campaign linkTo="id-goes-here"/>
+          <Campaign linkTo="id-goes-here"/>
+          <Campaign linkTo="id-goes-here"/>
+          <Campaign linkTo="id-goes-here"/>
+          <Campaign linkTo="id-goes-here"/>
+          <Campaign linkTo="id-goes-here"/>
+          <Campaign linkTo="id-goes-here"/>
           
         </div>
 					

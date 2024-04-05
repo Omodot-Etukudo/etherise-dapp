@@ -51,7 +51,7 @@ const closeAll = () => {
                     <ul className={'lg:flex md:flex hidden flex-row justify-center items-center'}>
 
 
-                        <Link className='text-gray-900 font-medium text-sm' href="/myCampaigns">My Profile</Link>
+                        <Link className='text-gray-900 font-medium text-sm' href="/myProfile">My Profile</Link>
                         
                     </ul>
                     <div className='flex space-x-2 justify-center items-center'>
